@@ -1,1 +1,4 @@
-alert('working');
+function()
+{
+  alert('working');
+}
