@@ -1,1 +1,6 @@
-alert('LOLOLO');
+window,onload = function () {
+
+	alert('Second');
+
+
+}
